@@ -46,7 +46,10 @@ Primary Objectives
 ```
 ---
 
-## | Function                     | Purpose                          | Example                                      |
+## Common Excel Functions Used for Data Cleaning
+
+```
+| Function                     | Purpose                          | Example                                      |
 | ---------------------------- | -------------------------------- | -------------------------------------------- |
 | `TRIM()`                     | Removes extra spaces             | `=TRIM(A2)`                                  |
 | `UPPER()`                    | Converts text to uppercase       | `=UPPER(B2)`                                 |
@@ -64,4 +67,5 @@ Primary Objectives
 | `LEFT()`, `RIGHT()`, `MID()` | Extracts specific text           | `=LEFT(A2,3)`                                |
 | `AND()` / `OR()`             | Multiple condition validation    | `=AND(B2>0,C2<=50)`                          |
 
+```
 ---
