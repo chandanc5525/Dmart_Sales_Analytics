@@ -152,6 +152,8 @@ KPI Calculation
 Dashboard Development
        ↓
 Insight Generation
+       ↓
+Business Recommendations
 
 ```
 
@@ -159,5 +161,4 @@ Insight Generation
 <p align="center">
   <img src="Information_graphics.png" alt="DMart Sales Analytics" width="800">
 </p>
-       ↓
-Business Recommendations
+
